@@ -1,4 +1,4 @@
-#!/Users/dc/code/hurricanes/bin/python
+#!/Users/dc/code/nhc_forecast_data/bin/python
 from bs4 import BeautifulSoup as bs
 import requests
 import os
